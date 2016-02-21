@@ -1,0 +1,25 @@
+{
+  "name": "java-factory-lib",
+  "version": "0.1.31",
+  "description": "java 库包装器",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/comp.js",
+    "install": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "jym",
+  "license": "ISC",
+  "devDependencies": {
+    "java": "^0.5.4"
+  },
+  "dependencies": {
+    "configuration-lib": "^0.1.45"
+  }
+}
